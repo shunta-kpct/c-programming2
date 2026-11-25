@@ -1,0 +1,11 @@
+{
+"name": "C/C++ development",
+"customizations": {
+"vscode": {
+"extensions": [
+"ms-vscode.cpptools",
+"ms-vscode.cpptools-extension-pack"
+            ]
+        }
+    }
+}
